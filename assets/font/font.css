@@ -1,0 +1,11 @@
+@font-face {
+    font-family: 'Lao UI';
+    src: url('LaoUI.eot');
+    src: url('LaoUI.eot?#iefix') format('embedded-opentype'),
+        url('LaoUI.woff2') format('woff2'),
+        url('LaoUI.woff') format('woff'),
+        url('LaoUI.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+
